@@ -1,4 +1,4 @@
-Project Overview: Sentiment Analysis on Product Reviews
+Project Overview: Sentiment Analysis on Amazon Product Reviews
 
 Objective:
 The goal of this project was to analyze customer sentiment from product reviews using Natural Language Processing (NLP) and Machine Learning (ML) techniques. The project aimed to build a classification model to predict review scores (1-5) based on customer feedback text.
